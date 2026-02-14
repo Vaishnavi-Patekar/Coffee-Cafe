@@ -14,13 +14,13 @@ Designed with smooth animations and a premium UI experience.
 
 ## ✨ Features
 
-- 👉🏻 Responsive Complete Landing Page  
-- 👉🏻 Fully Responsive Navbar  
-- 👉🏻 Beautiful Animated Website (Animate On Scroll)  
-- 👉🏻 Fully Responsive Hero Section (All Devices Supported)  
-- 👉🏻 Modern Responsive Product Cards  
-- 👉🏻 Responsive Footer with Background Image  
-- 👉🏻 Smooth Scrolling & Clean UI Design  
+-  Responsive Complete Landing Page  
+-  Fully Responsive Navbar  
+-  Beautiful Animated Website (Animate On Scroll)  
+-  Fully Responsive Hero Section (All Devices Supported)  
+-  Modern Responsive Product Cards  
+-  Responsive Footer with Background Image  
+-  Smooth Scrolling & Clean UI Design  
 
 ---
 
