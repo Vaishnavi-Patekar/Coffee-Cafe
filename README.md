@@ -8,7 +8,7 @@ Designed with smooth animations and a premium UI experience.
 ## 🚀 Live Demo
 
 🔗 **Deployed on Netlify:**  
-👉 vina-coffee-cafe.netlify.app
+👉 https://vina-coffee-cafe.netlify.app
 
 ---
 
