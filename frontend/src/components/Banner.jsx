@@ -95,10 +95,10 @@ const Banner = () => {
                     </h1>
                     <p className="text-gray-500 text-sm">
                         {" "}
-                        Espresso coffee is a rich, concentrated coffee
-                         brewed by forcing hot water through finely
-                          ground beans, delivering a bold flavor and
-                           creamy aroma in every si
+                       A tea lover is someone who cherishes the calming
+                        ritual of brewing and sipping tea.
+                   They find comfort, warmth, and peace in every soothing cup.
+
                     </p>
                 </div>
               </div>

@@ -13,14 +13,14 @@ const ServicesData = [
         id:2,
         img:Img2,
         name: "Americano",
-        description : "Espresso coffee is a strong, concentrated brew with bold flavor and rich aroma.",
+        description : "Americano coffee is a smooth, bold drink made by diluting espresso with hot water for a rich yet balanced flavor.",
         aosDelay: "300",
     },
       {
         id:3,
         img:Img2,
         name: "Cappuccino",
-        description : "Espresso coffee is a strong, concentrated brew with bold flavor and rich aroma.",
+        description : "Cappuccino coffee is a rich espresso-based drink topped with steamed milk and a thick layer of creamy foam.",
         aosDelay: "500",
     },
 ];
